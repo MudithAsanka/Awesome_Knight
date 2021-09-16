@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8097e73c-a651-480e-b371-e51e494655e2" name="Default Changelist" comment="Player Movement">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player Scripts/PlayerMove.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/PlayerMove.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tAvWR6bKCWLhqERwNOZQ1CC7Ts" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8097e73c-a651-480e-b371-e51e494655e2" name="Default Changelist" comment="" />
+      <created>1622224741980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622224741980</updated>
+      <workItem from="1622224772061" duration="5854000" />
+    </task>
+    <task id="LOCAL-00001" summary="Player Movement">
+      <created>1622230670384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622230670384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Player Movement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player Movement" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2743" y="478" key="Github.ShareDialog" timestamp="1622226077410">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2743" y="478" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622226077410" />
+    <state x="2611" y="286" key="Github.UntrackedFilesDialog" timestamp="1622226103292">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2611" y="286" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622226103292" />
+    <state x="2381" y="225" key="SettingsEditor" timestamp="1622226136308">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2381" y="225" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622226136308" />
+    <state x="2472" y="313" key="Vcs.Push.Dialog.v2" timestamp="1622230873985">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2472" y="313" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622230873985" />
+    <state x="2654" y="315" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1622226388577">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2654" y="315" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622226388577" />
+    <state x="2689" y="494" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622230952594">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2689" y="494" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622230952594" />
+    <state x="2579" y="368" key="git4idea.merge.GitPullDialog" timestamp="1622230841740">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2579" y="368" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1622230841740" />
+  </component>
+</project>
